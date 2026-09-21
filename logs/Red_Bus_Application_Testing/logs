@@ -1,0 +1,42 @@
+2026-09-21 11:04:35 INFO  TC_001_Account_Login_Functionality:25 - Starting TC_001_Account_Login_Functionality
+2026-09-21 11:04:35 INFO  TC_001_Account_Login_Functionality:29 - Click Account Button
+2026-09-21 11:04:35 INFO  TC_001_Account_Login_Functionality:32 - Login section open
+2026-09-21 11:04:36 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
+2026-09-21 11:04:37 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:24 - String TC_002_Verify_home_page_loads  
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:28 - Verify Banner content display
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:32 - verify header is display
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:36 - verify searchWidget display
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:40 - verify serach bus button clikable
+2026-09-21 11:04:40 INFO  TC_002_Verify_home_page_loads:43 - Finished test case TC_002
+2026-09-21 11:04:47 INFO  TC_004_Search_Bus:15 - Clearing page before test...
+2026-09-21 11:04:49 INFO  TC_004_Search_Bus:23 - TC_004 Search bus Starting
+2026-09-21 11:04:49 INFO  TC_004_Search_Bus:29 - Enter from City: Sion
+2026-09-21 11:04:49 INFO  TC_004_Search_Bus:34 - Click on first option from FROM dropdown
+2026-09-21 11:04:50 INFO  TC_004_Search_Bus:39 - Enter to city: Pune
+2026-09-21 11:04:51 INFO  TC_004_Search_Bus:44 - Click on first option from TO dropdown
+2026-09-21 11:04:51 INFO  TC_004_Search_Bus:49 - Click on Search Bus button
+2026-09-21 11:04:55 INFO  TC_004_Search_Bus:54 - Verify zingbus_plus is displayed
+2026-09-21 11:46:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Minal\eclipse-workspace\Red_Bus_Application_Testing\testng.xml
+
+2026-09-21 11:47:03 INFO  TC_001_Account_Login_Functionality:25 - Starting TC_001_Account_Login_Functionality
+2026-09-21 11:47:03 INFO  TC_001_Account_Login_Functionality:29 - Click Account Button
+2026-09-21 11:47:03 INFO  TC_001_Account_Login_Functionality:32 - Login section open
+2026-09-21 11:47:04 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
+2026-09-21 11:47:06 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001
+2026-09-21 11:47:28 INFO  TC_001_Account_Login_Functionality:25 - Starting TC_001_Account_Login_Functionality
+2026-09-21 11:47:28 INFO  TC_001_Account_Login_Functionality:29 - Click Account Button
+2026-09-21 11:47:29 INFO  TC_001_Account_Login_Functionality:32 - Login section open
+2026-09-21 11:47:29 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
+2026-09-21 11:47:31 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001
+2026-09-21 11:47:50 INFO  TC_001_Account_Login_Functionality:25 - Starting TC_001_Account_Login_Functionality
+2026-09-21 11:47:50 INFO  TC_001_Account_Login_Functionality:29 - Click Account Button
+2026-09-21 11:47:50 INFO  TC_001_Account_Login_Functionality:32 - Login section open
+2026-09-21 11:47:51 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
+2026-09-21 11:47:53 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001
+2026-09-21 12:04:10 INFO  TC_001_Account_Login_Functionality:25 - Starting TC_001_Account_Login_Functionality
+2026-09-21 12:04:10 INFO  TC_001_Account_Login_Functionality:29 - Click Account Button
+2026-09-21 12:04:10 INFO  TC_001_Account_Login_Functionality:32 - Login section open
+2026-09-21 12:04:11 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
+2026-09-21 12:04:12 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001

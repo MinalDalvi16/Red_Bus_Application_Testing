@@ -40,3 +40,6 @@
 2026-09-21 12:04:10 INFO  TC_001_Account_Login_Functionality:32 - Login section open
 2026-09-21 12:04:11 INFO  TC_001_Account_Login_Functionality:34 - Click on Log in button
 2026-09-21 12:04:12 INFO  TC_001_Account_Login_Functionality:53 - Finished test case TC_001
+2026-09-21 16:01:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Minal\eclipse-workspace\Red_Bus_Application_Testing\testng.xml
+
